@@ -3,3 +3,4 @@ pytest
 pytest-env
 black
 langchain
+langchain[ollama]
